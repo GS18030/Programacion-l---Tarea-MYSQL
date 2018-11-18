@@ -1,0 +1,13 @@
+Instrucciones: 
+Abrir el archivo con la extencion cpp 
+Sino ejecuta 
+Crear un proyecto y copiar el codigo del archivo cpp
+
+Agregar en los parametros en el cuadro de Linker 
+-lmysql
+
+Tener en la misma carpeta las extenciones
+-libmysql.dll
+-libmysqld.dll
+
+Descargar el archivo "practica.sql" 
