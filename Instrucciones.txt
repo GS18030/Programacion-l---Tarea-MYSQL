@@ -1,7 +1,7 @@
 Instrucciones: 
 Abrir el archivo con la extencion cpp 
 Sino ejecuta 
-Crear un proyecto y copiar el codigo del archivo cpp
+Crear un nuevo proyecto en consola y copiar el codigo del archivo cpp
 
 Agregar en los parametros en el cuadro de Linker 
 -lmysql
