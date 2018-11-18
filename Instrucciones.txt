@@ -11,3 +11,5 @@ Tener en la misma carpeta las extenciones
 -libmysqld.dll
 
 Descargar el archivo "practica.sql" 
+importar la base de datos "practica.sql" en phpadmin
+Usuario: root@localhost
